@@ -1,7 +1,7 @@
 # pterodactyl
 
 <h3>
-Flappy bird remake with a pterodactyl in Swift
+Flappy Bird Style Game With a Pterodactyl in Swift
 </h3>
 <img src="https://github.com/groeneveldwoodstock/pterodactyl/blob/main/pterodactyl1.png" alt="Screen Shot" style="width:200px;">
 <h3>
